@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <GL\GL.h>
 
 int main()
 {
